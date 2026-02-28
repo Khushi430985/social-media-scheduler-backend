@@ -113,7 +113,7 @@ npx nodemon server.js
 
 ## 🌐 Deployment Link
 
-(Add Render deployment link here)
+https://social-media-scheduler-backend.onrender.com/
 
 ---
 
